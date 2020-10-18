@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## The 3D Slicer open-source platform for medical image analysis and 3D visualization of DICOM data 
 
-You can use the [editor on GitHub](https://github.com/spujol/3DSlicerRSNA2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sonia Pujol(1), PhD, Steve Pieper(2), PhD, Andras Lasso(3), PhD, Andrey Fedorov(1), PhD, Ron Kikinis(1), MD
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(1) Brigham and Women’s Hospital, Harvard Medical School
+(2) Isomics Inc.
+(3) Perk’s Lab, Queen’s University
+
+### Introduction
+
+[3D Slicer](https://www.slicer.org) is a free, open source and extensible software for subject specific medical image analysis and 3D visualization. The software is available natively for [Windows, MacOSX and Linux platforms](https://download.slicer.org/); via Docker containers; and on cloud via web browsers
+
 
 ### Markdown
 
