@@ -25,16 +25,22 @@ Andras Lasso(3), PhD, Andrey Fedorov(1), PhD, Ron Kikinis(1), MD
 ![AI](AI.png)
 
 ### Registration
-![DataFusion](DataFusion.png)
+![DataFusion](DataFusion.jpg)
 
 ### Quantitative Analysis
+![QuantitativeAnalysis](QuantitativeAnalysis.png)
 
 ### Image-Guided Therapy
+![IGT](IGT.png)
 
 ### Virtual and Augmented Reality
+![VR](VR.png)
 
 ### 3D Printing
+![3DPrinting](3DPrinting.png)
 
 ### Slicer Project Weeks 
+![ProjectWeek](ProjectWeek.png)
 
 ### Slicer Workshops
+![SlicerWorkshops](SlicerWorkshops.png)
