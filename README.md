@@ -21,11 +21,11 @@ Andras Lasso(3), PhD, Andrey Fedorov(1), PhD, Ron Kikinis(1), MD
 ### Segmentation and 3D Modeling
 ![Segmentation](Segmentation.png)
 
-* Numerous tools for 2D/3D/4D segmentation 
-
 ### Artificial Intelligence
+![AI](AI.png)
 
 ### Registration
+![DataFusion](DataFusion.png)
 
 ### Quantitative Analysis
 
