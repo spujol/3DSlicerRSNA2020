@@ -12,11 +12,30 @@ Andras Lasso(3), PhD, Andrey Fedorov(1), PhD, Ron Kikinis(1), MD
 
 <a href="https://slicer.org"> 3D Slicer </a> is a free, open source and extensible software for subject specific medical image analysis and 3D visualization. The software package is available natively for Windows, MacOSX and Linux. The software can also be run via Docker containers, on the cloud via web browsers or as a Jupyter Notebook kernel. Built over two decades through support from the National Institutes of Health and an international user and developer community, 3D Slicer brings cross-platform image processing tools worldwide to clinicians, researchers and the general public.
 
+## DICOM
+3D Slicer provides DICOM standard interoperability for importing and exporting images
+
 
 ## Visualization
 
 
 
-### Segmentation
+### Segmentation and 3D Modeling
 
 * Numerous tools for 2D/3D/4D segmentation 
+
+### Artificial Intelligence
+
+### Registration
+
+### Quantitative Analysis
+
+### Image-Guided Therapy
+
+### Virtual and Augmented Reality
+
+### 3D Printing
+
+### Slicer Project Weeks 
+
+### Slicer Workshops
